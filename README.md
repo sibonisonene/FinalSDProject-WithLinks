@@ -7,6 +7,6 @@ The link for the github repository of the project is: https://github.com/sibonis
 
 The link for the YouTube is:
 
-The Diagrams are in the folder titled Diagrams.
+The diagrams are in the folder titled Diagrams.
 
 All other documentation is in the "Software Design Submission" pdf, including the Architecture Diagram and Burndown Diagrams for each sprint.
