@@ -5,7 +5,7 @@ The link for the web application is: https://white-pebble-01b7d4d0f.5.azurestati
 
 The link for the github repository of the project is: https://github.com/sibonisonene/sdproject
 
-The link for the YouTube is:
+The link for the YouTube is: https://youtu.be/2hzHoQEjG_U
 
 The diagrams are in the folder titled Diagrams.
 
